@@ -1,0 +1,80 @@
+.gitignore
+  h_c6a5186691a52d 1-5
+LICENSE
+  h_c6a5186691a52d 1-21
+README.md
+  h_c6a5186691a52d 1-41
+THIRD_PARTY_NOTICES
+  h_c6a5186691a52d 1-24
+cordis.patch.yml
+  h_c6a5186691a52d 1-9
+dsh/detail.js
+  h_c6a5186691a52d 1-96
+dsh/index.js
+  h_c6a5186691a52d 1-128
+dsh/sources.js
+  h_c6a5186691a52d 1-15
+dsh/sync.js
+  h_c6a5186691a52d 1-282
+dsh/tools.js
+  h_c6a5186691a52d 1-66
+dsh/update.js
+  h_c6a5186691a52d 1-145
+dsh/vendor/frontmatter.js
+  h_c6a5186691a52d 1-246
+dsh/vendor/importer.js
+  h_c6a5186691a52d 1-257
+dsh/vendor/roots.js
+  h_c6a5186691a52d 1-184
+dsh/vendor/scanner.js
+  h_c6a5186691a52d 1-133
+dsh/vendor/trash.js
+  h_c6a5186691a52d 1-137
+icon.svg
+  h_c6a5186691a52d 1
+lib/client.js
+  h_c6a5186691a52d 1-729
+locale/en.json
+  h_c6a5186691a52d 1-6
+locale/zh.json
+  h_c6a5186691a52d 1-6
+package.json
+  h_c6a5186691a52d 1-45
+pnpm-lock.yaml
+  h_c6a5186691a52d 1-45
+scripts/dry-run-scan.mjs
+  h_c6a5186691a52d 1-31
+test/create-skill.test.js
+  h_c6a5186691a52d 1-80
+test/detail.test.js
+  h_c6a5186691a52d 1-53
+test/frontmatter.test.js
+  h_c6a5186691a52d 1-78
+test/importer.test.js
+  h_c6a5186691a52d 1-145
+test/origin-labels.test.js
+  h_c6a5186691a52d 1-116
+test/scanner.test.js
+  h_c6a5186691a52d 1-42
+test/search-all.test.js
+  h_c6a5186691a52d 1-24
+test/skill-tabs.test.js
+  h_c6a5186691a52d 1-31
+test/skill-update.test.js
+  h_c6a5186691a52d 1-139
+test/sync-feedback.test.js
+  h_c6a5186691a52d 1-82
+test/update-backend.test.js
+  h_c6a5186691a52d 1-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6e9ec3708e689a5a2bc5fc8b5616e7d791798fd3",
+  "prompts": {},
+  "humans": {
+    "h_c6a5186691a52d": {
+      "author": "zrfan <zrfan@leqee.com>"
+    }
+  }
+}
