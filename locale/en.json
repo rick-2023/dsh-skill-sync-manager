@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Skill sync",
+    "description": "Scan skills from Codex and Cursor, import into DSH, and manage enablement."
+  }
+}

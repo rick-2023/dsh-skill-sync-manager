@@ -1,0 +1,45 @@
+{
+  "name": "skill-sync-manager",
+  "version": "0.3.14",
+  "description": "\u4ece Codex/Cursor \u540c\u6b65 skill \u5230 DeepSeek Harness",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test"
+  },
+  "main": "./dsh/index.js",
+  "exports": {
+    ".": "./dsh/index.js",
+    "./client": "./lib/client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg",
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./package.json": "./package.json"
+  },
+  "icon": "./icon.svg",
+  "files": [
+    "dsh",
+    "lib",
+    "locale",
+    "icon.svg",
+    "cordis.patch.yml",
+    "README.md",
+    "THIRD_PARTY_NOTICES"
+  ],
+  "dependencies": {
+    "@deepseek-ai/schemastery": "^3.18.6-alpha.1",
+    "yaml": "^2.9.1"
+  },
+  "engines": {
+    "dsh": ">=0.2.1-rc.2 <0.3.0"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": []
+    }
+  }
+}

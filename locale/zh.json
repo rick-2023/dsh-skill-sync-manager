@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Skill 同步",
+    "description": "从 Codex 与 Cursor 扫描 skill，导入 DSH 并统一管理启用状态。"
+  }
+}

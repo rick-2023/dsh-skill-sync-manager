@@ -1,0 +1,9 @@
+- insert:
+    - id: skill-sync
+      name: skill-sync-manager
+      config:
+        autoSyncOnBoot: true
+        bootDelayMs: 8000
+        intervalMs: 3600000
+        targetRootId: user-dsh
+        enabledSourceIds: []
