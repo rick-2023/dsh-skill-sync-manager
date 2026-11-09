@@ -1,6 +1,6 @@
 - insert:
     - id: skill-sync
-      name: skill-sync-manager
+      name: dsh-skill-sync-manager
       config:
         autoSyncOnBoot: true
         bootDelayMs: 8000

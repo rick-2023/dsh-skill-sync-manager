@@ -1,5 +1,5 @@
 {
-  "name": "skill-sync-manager",
+  "name": "dsh-skill-sync-manager",
   "version": "0.3.14",
   "description": "\u4ece Codex/Cursor \u540c\u6b65 skill \u5230 DeepSeek Harness",
   "type": "module",

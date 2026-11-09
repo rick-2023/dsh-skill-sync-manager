@@ -1,4 +1,4 @@
-# Skill Sync Manager
+# DSH Skill Sync Manager
 
 DeepSeek Harness 的技能管理插件，帮助你把 Codex 和 Cursor 的本地技能导入 Harness，并在侧栏查看和管理技能。
 
@@ -16,8 +16,8 @@ DeepSeek Harness 的技能管理插件，帮助你把 Codex 和 Cursor 的本地
 需要支持插件安装的 DeepSeek Harness（声明兼容 `>=0.2.1-rc.2 <0.3.0`）。从源码构建安装包：
 
 ```bash
-git clone https://github.com/rick-2023/skill-sync-manager.git
-cd skill-sync-manager
+git clone https://github.com/rick-2023/dsh-skill-sync-manager.git
+cd dsh-skill-sync-manager
 npm pack
 ```
 
