@@ -1,0 +1,20 @@
+README.md
+  h_c6a5186691a52d 1,19-20
+cordis.patch.yml
+  h_c6a5186691a52d 3
+lib/client.js
+  h_c6a5186691a52d 2
+package.json
+  h_c6a5186691a52d 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d91083b7b8ccf96f15a020c5f3803d13862a400d",
+  "prompts": {},
+  "humans": {
+    "h_c6a5186691a52d": {
+      "author": "zrfan <zrfan@leqee.com>"
+    }
+  }
+}
